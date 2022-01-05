@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Grand_Aventure';
+    src: local('Grand_Aventure'), url("../assets/fonts/Grand_Aventure.otf") format('opentype');
+  }
+@font-face {
+    font-family: 'Helvetica';
+    src: local('Helvetica'), url("../assets/fonts/Helvetica.ttf") format('truetype');
+}
+
+
+  .img-overlay-wrap svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }

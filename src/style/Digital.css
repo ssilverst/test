@@ -1,0 +1,27 @@
+.top-bar
+{
+    position: 'absolute';
+    width: '5vw';
+}
+.squirrel:hover{
+    transform:rotateZ(720deg)
+}
+.icon{
+    transition: 1s all ease-in-out
+}
+.icon-dance:hover{
+    transform:rotateZ(30deg);
+}
+.icon-rotate{
+    transition: 3s all ease-in-out;
+}
+.icon-rotate:hover{
+    transform:rotateZ(360deg);
+}
+
+.icon-grow:hover{
+    transform: scale(1.2)
+}
+.icon-change:hover{
+    filter: invert(100%);
+}
