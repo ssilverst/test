@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test/static/css/main.ae89d17e.css",
-    "main.js": "/test/static/js/main.3dc6a064.js",
+    "main.js": "/test/static/js/main.2bee53a4.js",
     "static/media/goat-and-box.gif": "/test/static/media/goat-and-box.b33128204c3e442dd2e1.gif",
     "static/media/rack.png": "/test/static/media/rack.ee5cd1f7fcd041b28f58.png",
     "static/media/the-girls.jpg": "/test/static/media/the-girls.d93b1d0d9c6f1f6dfdb3.jpg",
@@ -43,10 +43,10 @@
     "static/media/Grand_Aventure.otf": "/test/static/media/Grand_Aventure.0b1790e26848d88f14a2.otf",
     "index.html": "/test/index.html",
     "main.ae89d17e.css.map": "/test/static/css/main.ae89d17e.css.map",
-    "main.3dc6a064.js.map": "/test/static/js/main.3dc6a064.js.map"
+    "main.2bee53a4.js.map": "/test/static/js/main.2bee53a4.js.map"
   },
   "entrypoints": [
     "static/css/main.ae89d17e.css",
-    "static/js/main.3dc6a064.js"
+    "static/js/main.2bee53a4.js"
   ]
 }
